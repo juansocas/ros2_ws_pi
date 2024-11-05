@@ -1,0 +1,1 @@
+/home/pi/ros2_ws/src/jsc_mecanum_bringup/launch/rviz2.py

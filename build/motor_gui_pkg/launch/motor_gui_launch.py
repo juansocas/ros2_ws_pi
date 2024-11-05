@@ -1,0 +1,1 @@
+/home/pi/ros2_ws/src/motor_gui_pkg/launch/motor_gui_launch.py
